@@ -24,7 +24,7 @@ A full-stack productivity application built with Flask, PostgreSQL, and React th
 - **Relational Data**: Projects contain multiple tasks with cascading operations
 - **Responsive UI**: Modern, gradient-based design that works on all devices
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Backend
 
