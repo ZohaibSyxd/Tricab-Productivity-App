@@ -7,7 +7,7 @@ A full-stack productivity application built with Flask, PostgreSQL, and React th
 ![React](https://img.shields.io/badge/React-18.2-blue)
 ![Flask](https://img.shields.io/badge/Flask-3.0-green)
 
-## 🚀 Features
+## Features
 
 ### Core Functionality
 
@@ -42,14 +42,14 @@ A full-stack productivity application built with Flask, PostgreSQL, and React th
 - **Context API**: State management
 - **CSS3**: Modern styling with gradients and animations
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.8 or higher
 - Node.js 14 or higher
 - npm or yarn
 - OpenAI API key (optional, for AI features)
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -131,7 +131,7 @@ Open your browser and navigate to `http://localhost:3000`
 
 Or create a new account via the signup page.
 
-## 📊 API Endpoints
+## API Endpoints
 
 ### Authentication
 
@@ -164,7 +164,7 @@ Or create a new account via the signup page.
 
 - `POST /api/ai/generate-task-description` - Generate task description with AI
 
-## 🗄️ Database Schema
+## Database Schema
 
 ### User
 
@@ -196,7 +196,7 @@ Or create a new account via the signup page.
 - `created_at`: Timestamp
 - `updated_at`: Timestamp
 
-## 🔐 Security Features
+## Security Features
 
 - Session-based authentication with secure cookies
 - Password hashing using bcrypt
@@ -205,7 +205,7 @@ Or create a new account via the signup page.
 - SQL injection prevention via SQLAlchemy ORM
 - Input validation on all models
 
-## 🎨 Key Components
+## Key Components
 
 ### Backend
 
@@ -222,7 +222,7 @@ Or create a new account via the signup page.
 - `Projects.js`: Project list and CRUD
 - `ProjectDetail.js`: Task management within projects
 
-## 🚀 Deployment
+## Deployment
 
 This application can be deployed to platforms like:
 
@@ -238,7 +238,7 @@ DATABASE_URL=<postgresql-connection-string>
 OPENAI_API_KEY=<your-api-key>
 ```
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Task comments and attachments
 - Team collaboration features
@@ -249,7 +249,7 @@ OPENAI_API_KEY=<your-api-key>
 - File uploads for tasks
 - Calendar integration
 
-## 🧪 Testing
+## Testing
 
 The application includes comprehensive error handling and validation:
 
@@ -258,21 +258,7 @@ The application includes comprehensive error handling and validation:
 - Error messages for failed operations
 - Loading states for async operations
 
-## 👨‍💻 Author
-
-**Zohaib Syed**
-Email: zohaibasim20@gmail.com
-
-Created as a full-stack development project demonstrating:
-
-- RESTful API design
-- User authentication and authorization
-- Database relationships
-- Modern React patterns
-- AI integration
-- Production-ready code structure
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Flask documentation
 - React documentation
